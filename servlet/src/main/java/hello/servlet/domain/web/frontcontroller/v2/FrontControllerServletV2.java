@@ -1,7 +1,6 @@
 package hello.servlet.domain.web.frontcontroller.v2;
 
 import hello.servlet.domain.web.frontcontroller.MyView;
-import hello.servlet.domain.web.frontcontroller.v1.ControllerV1;
 import hello.servlet.domain.web.frontcontroller.v2.controller.MemberFormControllerV2;
 import hello.servlet.domain.web.frontcontroller.v2.controller.MemberListControllerV2;
 import hello.servlet.domain.web.frontcontroller.v2.controller.MemberSaveControllerV2;
